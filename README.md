@@ -1,3 +1,3 @@
 # google scholar search python
 
-Python console google search
+Python console google scholar search
